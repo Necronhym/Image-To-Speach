@@ -7,4 +7,4 @@ To install run make.
 
 To use:
 
-./C Path/To/Image/With/Text/On/it.extention
+./c Path/To/Image/With/Text/On/it.extention
